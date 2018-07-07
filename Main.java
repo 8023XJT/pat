@@ -1,4 +1,6 @@
-package Advance;
+//package Advance;//加包名会出错
+//pat1002
+//本题未完全完成，会有错误
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
